@@ -22,3 +22,10 @@ See Top Rated and Recent Popular Movies.
 ![image](https://user-images.githubusercontent.com/55717182/162340012-976b5723-065b-4e2b-8214-d2d0b103c0ab.png)
 ![image](https://user-images.githubusercontent.com/55717182/162340029-b4d89d18-a2ab-4e56-b6f2-11635f4e4a7d.png)
 ![image](https://user-images.githubusercontent.com/55717182/162340068-2fba9af7-f157-4394-8bf7-975077582c89.png)
+
+## Application Pdf
+
+[MovieStudioApp.docx](https://github.com/mu-se373-190706039/MovieStudio/files/8962863/MovieStudioApp.docx)
+
+
+
